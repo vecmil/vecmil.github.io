@@ -20,6 +20,5 @@ slug = "contact"
 - **Terminal:** Alacritty
 - **Shell:** zsh with zim-fw
 - **Multiplexer:** Zellij
-- **Editor:** VS Code & neovim
 - **Linguagens:** Python, Rust & Go
 - **Site**: Hugo + Github + Netlify
