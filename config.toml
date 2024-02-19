@@ -16,7 +16,7 @@ style = "github-dark"
   info = "Anykey and Beard"
   description = "eddqd's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/icon.png"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
