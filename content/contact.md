@@ -14,7 +14,7 @@ slug = "contact"
 
 ## Software
 
-- **SO:** Manjaro Linux
+- **SO:** Mac OS
 - **WM:** Gnome
 - **Browser:** Firefox
 - **Terminal:** Alacritty
