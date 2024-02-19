@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on eddqd</title>
+    <link>https://vecmil.github.io/posts/</link>
+    <description>Recent content in Posts on eddqd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vecmil.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retrospectiva 2022</title>
+      <link>https://vecmil.github.io/posts/retrospectiva-2022/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://vecmil.github.io/posts/retrospectiva-2022/</guid>
+      <description>Lá se vai 2023, e aqui vai um rápido resumo.&#xA;Blog Link to heading Não consegui escrever com muita frequência. Algumas ideias pipocaram, mas acabei deixando apenas algumas anotações soltas. Decidi desativar os comentários porque nunca tive feedback por eles.&#xA;Saúde Link to heading Tenho passado por fases de muito cansaço e desânimo, e ainda não consegui identificar o motivo. De resto, sigo na mesma situação: academia, remédio, suplementação, whey (achei uma marca boa) e tudo mais.</description>
+    </item>
+  </channel>
+</rss>

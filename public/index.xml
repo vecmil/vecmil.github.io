@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eddqd</title>
+    <link>https://vecmil.github.io/</link>
+    <description>Recent content on eddqd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vecmil.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retrospectiva 2022</title>
+      <link>https://vecmil.github.io/posts/retrospectiva-2022/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://vecmil.github.io/posts/retrospectiva-2022/</guid>
+      <description>Lá se vai 2023, e aqui vai um rápido resumo.&#xA;Blog Link to heading Não consegui escrever com muita frequência. Algumas ideias pipocaram, mas acabei deixando apenas algumas anotações soltas. Decidi desativar os comentários porque nunca tive feedback por eles.&#xA;Saúde Link to heading Tenho passado por fases de muito cansaço e desânimo, e ainda não consegui identificar o motivo. De resto, sigo na mesma situação: academia, remédio, suplementação, whey (achei uma marca boa) e tudo mais.</description>
+    </item>
+    <item>
+      <title>O que uso?</title>
+      <link>https://vecmil.github.io/contact/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vecmil.github.io/contact/</guid>
+      <description> Hardware Link to heading Notebook: Dell Inspiron 7560 15&amp;quot;, Intel i7-7500U 3.5GHz, 16GB, NVIDIA GeForce 940MX Monitor: LG UltraWide 34&amp;quot; Teclado: Keychron K3 Mouse: Logitech G502 Lightspeed Headset: Logitech G935 Software Link to heading SO: Manjaro Linux WM: Gnome Browser: Firefox Terminal: Alacritty Shell: zsh with zim-fw Multiplexer: Zellij Editor: VS Code &amp;amp; neovim Linguagens: Python, Rust &amp;amp; Go Site: Hugo + Github + Netlify </description>
+    </item>
+    <item>
+      <title>O que uso?</title>
+      <link>https://vecmil.github.io/homepage/usos/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://vecmil.github.io/homepage/usos/</guid>
+      <description> Hardware Link to heading Notebook: Dell Inspiron 7560 15&amp;quot;, Intel i7-7500U 3.5GHz, 16GB, NVIDIA GeForce 940MX Monitor: LG UltraWide 34&amp;quot; Teclado: Keychron K3 Mouse: Logitech G502 Lightspeed Headset: Logitech G935 Software Link to heading SO: Manjaro Linux WM: Gnome Browser: Firefox Terminal: Alacritty Shell: zsh with zim-fw Multiplexer: Zellij Editor: VS Code &amp;amp; neovim Linguagens: Python, Rust &amp;amp; Go Site: Hugo + Github + Netlify </description>
+    </item>
+    <item>
+      <title>O que estou fazendo agora?</title>
+      <link>https://vecmil.github.io/projects/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://vecmil.github.io/projects/</guid>
+      <description>Mantendo o hugo-coder, um tema para blogs criados com Hugo. Aprendendo sobre fantasy consoles, como o PICO-8, LIKO-12 and o TIC-80, e construindo o meu próprio, o SN-50. Tentando construir meu Zettelkasten e aprendendo a notar o que leio e aprendo. Lendo A mão esquerda da escuridão e Hell Yeah Or No . Está é uma now page, um lugar para compartilhar no que estou focado no momento. Se quiser saber mais sobre o assunto, leia aqui.</description>
+    </item>
+    <item>
+      <title>O que estou fazendo agora?</title>
+      <link>https://vecmil.github.io/homepage/agora/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://vecmil.github.io/homepage/agora/</guid>
+      <description>Mantendo o hugo-coder, um tema para blogs criados com Hugo. Aprendendo sobre fantasy consoles, como o PICO-8, LIKO-12 and o TIC-80, e construindo o meu próprio, o SN-50. Tentando construir meu Zettelkasten e aprendendo a notar o que leio e aprendo. Lendo A mão esquerda da escuridão e Hell Yeah Or No . Está é uma now page, um lugar para compartilhar no que estou focado no momento. Se quiser saber mais sobre o assunto, leia aqui.</description>
+    </item>
+    <item>
+      <title>Sobre Mim</title>
+      <link>https://vecmil.github.io/about/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://vecmil.github.io/about/</guid>
+      <description>Meu nome é Luiz de Prá, sou de Curitiba, Paraná, Brasil. Moro com minha bela esposa :woman: e nossa cachorrinha :dog:. Sou formado em Bacharelado em Ciência da Computação pela Universidade Federal do Paraná, e sou Especialista em Desenvolvimento de Jogos Eletrônicos pela Pontifícia Universidade Católica do Paraná. Atualmente trabalho como desenvolvedor back-end, usando Python para construir APIs Rest, microsserviços e outros projetos bacanas.&#xA;Ela e Eu&#xA;Tenho interesse em diferentes assuntos da engenharia de software, dentre eles: estrutura de dados, algoritmos, protocolos, arquitetura, padrões de design, etc.</description>
+    </item>
+    <item>
+      <title>Sobre Mim</title>
+      <link>https://vecmil.github.io/homepage/sobre/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://vecmil.github.io/homepage/sobre/</guid>
+      <description>Meu nome é Luiz de Prá, sou de Curitiba, Paraná, Brasil. Moro com minha bela esposa :woman: e nossa cachorrinha :dog:. Sou formado em Bacharelado em Ciência da Computação pela Universidade Federal do Paraná, e sou Especialista em Desenvolvimento de Jogos Eletrônicos pela Pontifícia Universidade Católica do Paraná. Atualmente trabalho como desenvolvedor back-end, usando Python para construir APIs Rest, microsserviços e outros projetos bacanas.&#xA;Ela e Eu&#xA;Tenho interesse em diferentes assuntos da engenharia de software, dentre eles: estrutura de dados, algoritmos, protocolos, arquitetura, padrões de design, etc.</description>
+    </item>
+  </channel>
+</rss>
