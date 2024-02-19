@@ -1,7 +1,7 @@
 +++
 date = 2018-09-26
 title = "Sobre Mim"
-slug = "sobre"
+slug = "about"
 +++
 
 Meu nome é Luiz de Prá, sou de Curitiba, Paraná, Brasil. Moro com minha bela esposa :woman: e nossa cachorrinha :dog:. Sou formado em Bacharelado em Ciência da Computação pela [Universidade Federal do Paraná][ufpr], e sou Especialista em Desenvolvimento de Jogos Eletrônicos pela [Pontifícia Universidade Católica do Paraná][pucpr]. Atualmente trabalho como desenvolvedor back-end, usando Python para construir APIs Rest, microsserviços e outros projetos bacanas.
